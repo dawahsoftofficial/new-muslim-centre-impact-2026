@@ -7,7 +7,7 @@
 
 - Pages 15–16: user-supplied community group photograph, original faces retained; display framing and colour overlay only.
 - Scholar portrait: original photograph, background removed with Higgsfield (face unchanged); scholar-cutout.png.
-- Male helpline scene: AI-generated illustration.
+- Helpline support worker (helpline-support.png): supplied by the user; real photograph.
 - Box contents (box-contents.jpg) and community group (community-group.jpg): Higgsfield 4K upscale of the originals plus light exposure/contrast grade; faces unchanged.
 - Merchandise (merch-brand.jpg): AI-generated with Higgsfield (GPT Image 2.5) using the New Muslim Box logo as reference. Concept only.
 - QR code (link.png): supplied by the user; placed next to the goal/next-steps line on each of the seven programme spreads (Box, Hub, Umrah, Podcast, Helpline, Data-driven initiative, Merch).
