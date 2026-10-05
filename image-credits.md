@@ -14,3 +14,5 @@
 - Volunteers spread (pages 15–16): reuses the volunteers.png illustration (see AI-generated illustrations note above) as its background photo.
 - New Muslim Box logo (newmuslimlogo.png): supplied by the user; no longer used in the report (closing cover now uses a text-based wordmark instead).
 - Testimonial images (box1.png, box2.png, box3.png): supplied by the user; product packaging mockups branded "OWN IT." — unrelated to New Muslim Box branding, used as placeholder testimonial imagery on page 6 at the user's request.
+- Pages 17–18 background (map-bg.jpg): user-supplied illustration (map.png).
+- Pages 19–20 background (merch-collection.jpg): user-supplied "Own It" curated studio collection image (merchandise.png).
