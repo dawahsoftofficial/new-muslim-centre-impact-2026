@@ -17,3 +17,4 @@
 - Pages 17–18 background (map-bg.jpg): user-supplied illustration (map.png).
 - Pages 19–20 background (merch-collection.jpg): user-supplied "Own It" curated studio collection image (merchandise.png).
 - Pages 05–06 background (box-cosy.jpg): AI-generated with Higgsfield (GPT Image 2.5) from the box-contents photograph and logo; recreated on a wooden table. Arabic text on the cards is AI-rendered and must be checked before print.
+- CEO portrait (ceo-portrait.jpg): AI-generated with Higgsfield (GPT Image 2.5) from the supplied photograph — attire and hair are AI-rendered; requires CEO approval.
